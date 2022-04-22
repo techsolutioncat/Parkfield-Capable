@@ -1,0 +1,132 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-banner",
+      "blocks": {
+        "3e6ba099-d81e-44ef-bb8d-8fd4ea864bf6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-04-04_at_7.47_1_1.png",
+            "video_url": "https:\/\/youtu.be\/4o77dx4qx70"
+          }
+        }
+      },
+      "block_order": [
+        "3e6ba099-d81e-44ef-bb8d-8fd4ea864bf6"
+      ],
+      "settings": {
+        "metaTitle": "Our Story",
+        "title": "About Capable Clothing",
+        "text": "<p>With years of caring for patients who live with spinal cord injuries, founder Temeka Norris RN witnessed many who faced sustaining skin breakdowns by developing skin ulcers, all due to clothing. It was through her experience of being hands-on with patients and what they have endured through the challenges of fitting into clothes, that inspired the Capable Clothing brand in 2011.<\/p>"
+      }
+    },
+    "16490518498cde988d": {
+      "type": "rich-text-icon",
+      "settings": {
+        "heading": "Capable Clothing presents adaptable jeans, that supports people having limited abilities, allowing for more independence and the reduction of skin breakdowns and injuries;",
+        "text": "<p>whether it be spinal cord injuries, ostomy bags, rheumatoid arthritis, as well as support for the elderly.  Caregivers will also benefit from Capable Clothing as its design helps to reduce the need for lifting and turning the individual, causing the caregiver to receive less back strains and other injuries.<\/p>",
+        "image": "shopify:\/\/shop_images\/heart_2_1.png"
+      }
+    },
+    "1648892204e2d02c8b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16488922048fc20bbd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "So what makes Capable Clothing so unique and essential?",
+            "heading_size": "h1"
+          }
+        },
+        "16488922048fc20bbd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each pair of jeans is designed for easy access and better mobility as well as being thoroughly tested by the Capable Clothing community to ensure comfort, accessibility, and overall, a smooth process changing into the brand’s items.<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "16488922048fc20bbd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View more details",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16488922048fc20bbd-0",
+        "16488922048fc20bbd-1",
+        "16488922048fc20bbd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_36955.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "1648892572a504c25f": {
+      "type": "rich-text",
+      "blocks": {
+        "164889257279abf368-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With a mission to provide solutions for the betterment of those living with disabilities, at Capable Clothing, we trust that through our clothes, <strong>especially our jeans, the capability of living a life that consists of more independence and protection of the body is very possible.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "164889257279abf368-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "164905887963234d9c": {
+      "type": "text-button",
+      "settings": {
+        "heading": "Let's support this community by bringing this amazing product to market.",
+        "button_label": "Donate",
+        "button_link": "shopify:\/\/pages\/donate"
+      }
+    },
+    "164925730664dd42c2": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/142_0558_1.png",
+        "video_url": "https:\/\/youtu.be\/XSUrwm5Vs0s",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom-multicolumn": {
+      "type": "custom-multicolumn",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "16490518498cde988d",
+    "1648892204e2d02c8b",
+    "1648892572a504c25f",
+    "164905887963234d9c",
+    "164925730664dd42c2",
+    "custom-multicolumn"
+  ]
+}

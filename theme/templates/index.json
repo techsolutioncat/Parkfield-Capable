@@ -1,0 +1,442 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "c7a63b2e-49e6-41ad-9154-d08292200d9f": {
+          "type": "text",
+          "settings": {
+            "text": "CAPABLE CLOTHING",
+            "text_style": "subtitle"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fashionable Denim That Saves Your Skin",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Designed by Caregiver - Made in USA",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Learn More About These Jeans",
+            "button_link_1": "shopify:\/\/collections\/adapable-jeans",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "c7a63b2e-49e6-41ad-9154-d08292200d9f",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_2.png",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "1648580421c7a592ae": {
+      "type": "logo-items",
+      "blocks": {
+        "16485804212d9a93fe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Patented Design",
+            "image": "shopify:\/\/shop_images\/contract_1.png"
+          }
+        },
+        "16485804212d9a93fe-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gain Independence",
+            "image": "shopify:\/\/shop_images\/hand_1.png"
+          }
+        },
+        "16485804212d9a93fe-2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comfort and Safety",
+            "image": "shopify:\/\/shop_images\/heart_2.png"
+          }
+        },
+        "16485804212d9a93fe-3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Made in the USA",
+            "image": "shopify:\/\/shop_images\/usa_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "16485804212d9a93fe-0",
+        "16485804212d9a93fe-1",
+        "16485804212d9a93fe-2",
+        "16485804212d9a93fe-3"
+      ],
+      "settings": {}
+    },
+    "1648375697e0be2385": {
+      "type": "testimonials",
+      "blocks": {
+        "1648375697942bc8d2-0": {
+          "type": "column",
+          "settings": {
+            "stars": 3,
+            "testimonial": "<p>FINALLY a TRULY accessible pant! Her jeans are so soft and stretchy and have absolutely AMAZING accessible features! Our favorite is the lift loops for a caregiver to help transfer and adjust you!<\/p>",
+            "image": "shopify:\/\/shop_images\/testimonial-2.png",
+            "title": "Hannah K"
+          }
+        },
+        "9c1d381a-a7c4-4c50-963a-668a10f32e1b": {
+          "type": "column",
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>I am in a wheelchair. Not just my legs that don’t work, also my fingers. There are a lot like me. Most people don’t realize how difficult it can be to put pants on, go to the bathroom, pull them up after they have slid down a bit in the back . . . all without standing up. I have a few pairs of Capable pants. Nothing even comes close. Thank you Temeka. <\/p>",
+            "image": "shopify:\/\/shop_images\/testimonial-3.png",
+            "title": "Daniel Campbell"
+          }
+        },
+        "156beb17-0438-4a25-a7ae-ff588cb2b624": {
+          "type": "column",
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>“As a therapist we think the Capable jeans are absolutely awesome! In regards to the convenience of caregivers, and improved independence to individuals without compromising comfort or style.”<\/p>",
+            "image": "shopify:\/\/shop_images\/testimonial-1.png",
+            "title": "AECorner"
+          }
+        },
+        "9a18119b-e0ed-42ee-b877-298a97e776e0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "title": "Annette Black"
+          }
+        },
+        "21d6c40d-b638-4007-ac71-2b6b5f751582": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "title": "Annette Black"
+          }
+        },
+        "7a352ebf-63c9-40f9-b9a9-b949ca338be3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "title": "Annette Black"
+          }
+        },
+        "355325b3-1b7d-4f04-9d4c-baff60d4f1e0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "title": "Annette Black"
+          }
+        },
+        "1f9a56bf-d9f8-4036-9822-a4e4a59f7d5a": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "title": "Annette Black"
+          }
+        },
+        "bc601542-01da-44ca-aba7-916dcf92aa5f": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "image": "shopify:\/\/shop_images\/Ellipse_7_1.png",
+            "title": "Annette Black"
+          }
+        },
+        "401fc3b6-9aa0-4fba-8034-7e41c7f64d63": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "stars": 5,
+            "testimonial": "<p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.<\/p>",
+            "image": "shopify:\/\/shop_images\/Ellipse_7.png",
+            "title": "Annette Black"
+          }
+        }
+      },
+      "block_order": [
+        "1648375697942bc8d2-0",
+        "9c1d381a-a7c4-4c50-963a-668a10f32e1b",
+        "156beb17-0438-4a25-a7ae-ff588cb2b624",
+        "9a18119b-e0ed-42ee-b877-298a97e776e0",
+        "21d6c40d-b638-4007-ac71-2b6b5f751582",
+        "7a352ebf-63c9-40f9-b9a9-b949ca338be3",
+        "355325b3-1b7d-4f04-9d4c-baff60d4f1e0",
+        "1f9a56bf-d9f8-4036-9822-a4e4a59f7d5a",
+        "bc601542-01da-44ca-aba7-916dcf92aa5f",
+        "401fc3b6-9aa0-4fba-8034-7e41c7f64d63"
+      ],
+      "settings": {
+        "title": "What people say about our jeans",
+        "heading_size": "h0",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1648399903389c0ae5": {
+      "type": "multicolumn",
+      "blocks": {
+        "16483999030e956bd4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_4.png",
+            "title": "",
+            "text": "<p>Capable Clothing was founded in 2011 by Temeka Norris RN, to highlight the abilities of individuals living with handicaps, as opposed their disabilities.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16483999030e956bd4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_5.png",
+            "title": "",
+            "text": "<p>Capable Clothing designs are made to assist individuals with limited abilities, (<strong>spinal cord injury, ostomy bags, rheumatoid arthritis, and the elderly<\/strong>) gain a more independent lifestyle, and reduce injury, and skin breakdown. Capable Clothing also assist the care givers of these individuals by designing clothing that reduce lifting and turning, thus reducing back strain and injury.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16483999030e956bd4-0",
+        "16483999030e956bd4-1"
+      ],
+      "settings": {
+        "title": "About Capable Clothing",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "1648401389dabc0606": {
+      "type": "collection-list",
+      "blocks": {
+        "16484013892dda62d7-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "adapable-jeans"
+          }
+        },
+        "16484013892dda62d7-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t-shirts"
+          }
+        },
+        "16484013892dda62d7-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "leg-strap"
+          }
+        },
+        "7f1e5350-1cf1-4e1d-9b02-b25253dfae7c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decals"
+          }
+        }
+      },
+      "block_order": [
+        "16484013892dda62d7-0",
+        "16484013892dda62d7-1",
+        "16484013892dda62d7-2",
+        "7f1e5350-1cf1-4e1d-9b02-b25253dfae7c"
+      ],
+      "settings": {
+        "title": "Shop all",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 48
+      }
+    },
+    "16484038412afb6837": {
+      "type": "tiktok",
+      "blocks": {
+        "1648403841b6b255a2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_54.png",
+            "title": "https:\/\/www.tiktok.com\/@capableclothing"
+          }
+        },
+        "1648403841b6b255a2-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_55.png",
+            "title": "https:\/\/www.tiktok.com\/"
+          }
+        },
+        "1648403841b6b255a2-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_56.png",
+            "title": "https:\/\/www.tiktok.com\/"
+          }
+        },
+        "d247ef23-283a-445e-b30e-db9c975ba894": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_57.png",
+            "title": "https:\/\/www.tiktok.com\/"
+          }
+        },
+        "bd613ec8-f8ea-46af-b469-8114d8b0265b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_58.png",
+            "title": "https:\/\/www.tiktok.com\/"
+          }
+        },
+        "360ca922-647a-4cf6-9c86-8e1b12d35067": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_55.png",
+            "title": "htps:\/\/www.tiktok.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "1648403841b6b255a2-0",
+        "1648403841b6b255a2-1",
+        "1648403841b6b255a2-2",
+        "d247ef23-283a-445e-b30e-db9c975ba894",
+        "bd613ec8-f8ea-46af-b469-8114d8b0265b",
+        "360ca922-647a-4cf6-9c86-8e1b12d35067"
+      ],
+      "settings": {
+        "title": "Popular on",
+        "heading_size": "h1",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "164840163035ef2620": {
+      "type": "collage",
+      "blocks": {
+        "80262df3-f38f-40a8-ad2c-b6845b12a3df": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_60.png",
+            "url": "https:\/\/facebook.com",
+            "image_padding": false
+          }
+        },
+        "6331c1eb-6c72-444c-acb6-7b63987f4c89": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_61.png",
+            "url": "https:\/\/facebook.com",
+            "image_padding": false
+          }
+        },
+        "65c212a0-fb37-4706-a3b5-a3c89ed86b42": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_63.png",
+            "url": "https:\/\/facebook.com",
+            "image_padding": false
+          }
+        },
+        "f31325bb-acf2-4409-918b-32088900c5bc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_62.png",
+            "url": "https:\/\/facebook.com",
+            "image_padding": false
+          }
+        },
+        "cf869ffa-e04a-4fb9-af4d-c7d628e4519c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_64.png",
+            "url": "https:\/\/facebook.com",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "80262df3-f38f-40a8-ad2c-b6845b12a3df",
+        "6331c1eb-6c72-444c-acb6-7b63987f4c89",
+        "65c212a0-fb37-4706-a3b5-a3c89ed86b42",
+        "f31325bb-acf2-4409-918b-32088900c5bc",
+        "cf869ffa-e04a-4fb9-af4d-c7d628e4519c"
+      ],
+      "settings": {
+        "heading": "See our community",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "1648580421c7a592ae",
+    "1648375697e0be2385",
+    "1648399903389c0ae5",
+    "1648401389dabc0606",
+    "16484038412afb6837",
+    "164840163035ef2620"
+  ]
+}

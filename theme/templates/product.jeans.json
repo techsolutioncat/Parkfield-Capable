@@ -1,0 +1,231 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "b21bf4d3-09f5-46fa-928e-86d4c4eece4b": {
+          "type": "men_women",
+          "settings": {
+            "men": "Men",
+            "men_product": "capable-premium-denim-jeans",
+            "women": "Women",
+            "women_product": "womens-capable-denim-jeans"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "label_prefix": "Select",
+            "show_size_guide": false,
+            "size_guide_text": "Size guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "eacdf341-d209-44ee-ad84-425aa667ca68": {
+          "type": "donate",
+          "settings": {
+            "donate_icon": "shopify:\/\/shop_images\/ShoppingBag.png",
+            "donate_text": "Buy 2, donate one to Veteran",
+            "donate_btn": "DONATE",
+            "donate_url": "shopify:\/\/pages\/donate"
+          }
+        },
+        "1f09b6c0-8cc9-4ec1-9478-0043ea3bc773": {
+          "type": "how_it_works",
+          "settings": {
+            "hiw_title": "How it works",
+            "hiw_icon_1": "shopify:\/\/shop_images\/hand_1_1.png",
+            "hiw_text_1": "Gain more independence",
+            "hiw_icon_2": "shopify:\/\/shop_images\/stretch-fabric_1.png",
+            "hiw_text_2": "Saves your skin from pressure sores",
+            "hiw_icon_3": "shopify:\/\/shop_images\/heart_2_3_be9b001e-1cba-4c56-a333-c324610e3c78.png",
+            "hiw_text_3": "Reduce injuries"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "title": "Features"
+          }
+        },
+        "fa01d9da-694c-4874-983e-4ca99114dd3b": {
+          "type": "aecorner",
+          "settings": {
+            "aecorner_image": "shopify:\/\/shop_images\/AECCorner_Award_White_1.png",
+            "aecorner_text": "<p><strong>Functional Independence & Dignity Award (2021)<\/strong><br\/><br\/>from Aecorner.com <\/p>"
+          }
+        },
+        "b66a8fb0-4ec0-4374-b440-06555157e545": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "icon": "none",
+            "content": "<p>Our capable premium denim jeans offer one of a kind features; such as our glide side zippers and our sturdy zipper which provides easy access to your undergarments, urine and ostomy bags, and straight cath as well as providing comfort during your motor skills. Other features such as the elasticized waistband protects the prevention of sliding during the transferring process, while the <em>lift loops <\/em>located in the front creates an easy and safe process for the caretaker to lift and reposition when needed.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care",
+            "icon": "none",
+            "content": "<p>Care content<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "none",
+            "content": "<p>Shipping content<\/p>",
+            "page": ""
+          }
+        },
+        "0ba2e892-2c74-422b-a41e-c7cbd4be769a": {
+          "type": "testimonial",
+          "settings": {
+            "title": "Testimonials from users\/caregivers",
+            "stars_1": 5,
+            "testimonial_1": "<p>FINALLY a TRULY accessible pant! Her jeans are so soft and stretchy and have absolutely AMAZING accessible features! Our favorite is the lift loops for a caregiver to help transfer and adjust you!<\/p><p>Trust me, you need these in your life.<\/p>",
+            "author_icon_1": "shopify:\/\/shop_images\/testimonial-2.png",
+            "author_name_1": "~ Hannah K, Relearning life",
+            "stars_2": 5,
+            "testimonial_2": "<p>I am in a wheelchair. Not just my legs that don’t work, also my fingers. There are a lot like me. Most people don’t realize how difficult it can be to put pants on, go to the bathroom, pull them up after they have slid down a bit in the back . . . all without standing up. I have a few pairs of Capable pants. Nothing even comes close. Thank you Temeka. <\/p>",
+            "author_icon_2": "shopify:\/\/shop_images\/testimonial-3.png",
+            "author_name_2": "~ Daniel Campbell",
+            "stars_3": 5,
+            "testimonial_3": "<p>Winner of AECorner’s Functional Independence and Dignity Award<br\/><br\/>“As a therapist we think the Capable jeans are absolutely awesome! In regards to the convenience of caregivers, and improved independence to individuals without compromising comfort or style.”<\/p>",
+            "author_icon_3": "shopify:\/\/shop_images\/testimonial-1.png",
+            "author_name_3": "~ AECorner",
+            "stars_4": 5,
+            "testimonial_4": "",
+            "author_name_4": "",
+            "stars_5": 5,
+            "testimonial_5": "",
+            "author_name_5": "",
+            "stars_6": 5,
+            "testimonial_6": "",
+            "author_name_6": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "b21bf4d3-09f5-46fa-928e-86d4c4eece4b",
+        "variant_picker",
+        "buy_buttons",
+        "eacdf341-d209-44ee-ad84-425aa667ca68",
+        "1f09b6c0-8cc9-4ec1-9478-0043ea3bc773",
+        "description",
+        "fa01d9da-694c-4874-983e-4ca99114dd3b",
+        "b66a8fb0-4ec0-4374-b440-06555157e545",
+        "collapsible-row-3",
+        "collapsible-row-1",
+        "0ba2e892-2c74-422b-a41e-c7cbd4be769a"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "1649226108ed05be4c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1649226108dcc634f3-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.png",
+            "title": "",
+            "text": "",
+            "link_label": "Leg Strap",
+            "link": "#"
+          }
+        },
+        "1649226108dcc634f3-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1649226108dcc634f3-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1649226108dcc634f3-0",
+        "1649226108dcc634f3-1",
+        "1649226108dcc634f3-2"
+      ],
+      "settings": {
+        "title": "May We Suggest:",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1649226108ed05be4c"
+  ]
+}
