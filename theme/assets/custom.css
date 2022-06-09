@@ -542,3 +542,16 @@
       height:auto;
    }
 }
+
+/* Begin menu custom style css */
+header.header .header__icons { display: unset; width: 300px; position: relative; left: -69px; }
+header.header .header__icons .btn-cart { position: absolute; bottom: -14px; color: #000; right: 0px; width: 37px; }
+header.header .header__icons a.menu-drawer__account { padding: 0px; position: absolute; right: 36px; top: 4px; }
+header.header .header__icons a.btn-cart .icon-cart-empty { width: 40px; }
+header.header .list-menu--inline { min-width: 566px }
+@media (max-width: 600px) {
+   header.header .header__icons { position: unset; left: 0; width: auto; }
+   header.header .header__icons .btn-cart { right: 49px; top: 14px; }
+   header.header .header__icons a.menu-drawer__account { right: 85px; top: 24px; }
+}
+/* End menu custom style css */

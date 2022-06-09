@@ -1427,6 +1427,12 @@ a.klarna {
 .slider-mobile-gutter ul li.product__media-item:nth-child(7) {
   display: flex;
 }
+.grid--2-col-tablet .grid__item .product__modal-opener,
+.grid--2-col-tablet .grid__item .product__modal-opener .global-media-settings
+{ 
+  width: 100%;
+  height: 100%;
+}
 /* End product image custom style css */
 
 @media (max-width: 749px) {

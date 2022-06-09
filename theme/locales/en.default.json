@@ -104,6 +104,8 @@
     "product": {
       "add_to_cart": "Add to cart",
       "jeans_add_to_cart": "BUY PANTS",
+      "t-shirt_add_to_cart": "Add T-Shirt to Cart",
+      "decal_add_to_cart": "Add Decal to Cart",
       "description": "Description",
       "on_sale": "Sale",
       "product_variants": "Product variants",

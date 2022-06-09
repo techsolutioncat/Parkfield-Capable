@@ -480,11 +480,20 @@
                     {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}
                     >
                         <span>
+                          {% assign collection_name = '' %}
+                          {% for collection in product.collections %}
+                            {% if collection.title contains 'T-shirts' %}
+                              {% assign collection_name = 'T-shirts' %}
+                            {% endif %}
+                          {% endfor %}
+                          
                           {%- if product.selected_or_first_available_variant.available -%}
                             {% if template == 'product.jeans' %}
                               {{ 'products.product.jeans_add_to_cart' | t }}
+                            {% elsif template == 'product' and collection_name == 'T-shirts' %}
+                              {{ 'products.product.t-shirt_add_to_cart' | t }}
                             {% else %}
-                              {{ 'products.product.add_to_cart' | t }}
+                              {{ 'products.product.decal_add_to_cart' | t }}
                             {% endif %}
                           {%- else -%}
                             {{ 'products.product.sold_out' | t }}

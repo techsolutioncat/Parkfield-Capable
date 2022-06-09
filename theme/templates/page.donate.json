@@ -49,50 +49,41 @@
     "16490619195f1038b0": {
       "type": "title-buttons",
       "settings": {
-        "heading": "Show your support by buying our Adaptable Jeans products",
-        "button": "Contact us",
-        "button_link": "shopify:\/\/pages\/contact-us",
-        "second_button": "Buy Product",
-        "second_button_link": "shopify:\/\/products\/capable-premium-denim-jeans"
+        "heading": "Show your support by donating our Adaptable Jeans.",
+        "button": "",
+        "button_link": "",
+        "second_button": "Buy Capable Jeans",
+        "second_button_link": "shopify:\/\/collections\/adapable-jeans"
       }
     },
     "1649429560b80fbffb": {
       "type": "rich-text",
       "blocks": {
-        "1649429560eeca8f3a-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
         "1649429560eeca8f3a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you have questions about donating adaptable jeans, do not hesitate to contact us. <\/p>"
-          }
-        },
-        "1649429560eeca8f3a-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "text": "<p><strong>How it works:  <\/strong>Purchase a pair of Capable Clothing adaptive jeans and when you get to the cart page, in the order special instructions box, let us know that you want to make a donation. If you have questions about donating adaptable jeans, do not hesitate to contact us. <\/p>"
           }
         }
       },
       "block_order": [
-        "1649429560eeca8f3a-0",
-        "1649429560eeca8f3a-1",
-        "1649429560eeca8f3a-2"
+        "1649429560eeca8f3a-1"
       ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 64
+        "padding_bottom": 36
+      }
+    },
+    "1650543690b9c7e631": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact Capable Clothing",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 8,
+        "padding_bottom": 36
       }
     }
   },
@@ -100,6 +91,7 @@
     "main",
     "16490638444ed47fb3",
     "16490619195f1038b0",
-    "1649429560b80fbffb"
+    "1649429560b80fbffb",
+    "1650543690b9c7e631"
   ]
 }

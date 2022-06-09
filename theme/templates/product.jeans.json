@@ -50,6 +50,14 @@
             "show_dynamic_checkout": false
           }
         },
+        "04d83a1c-de3d-4f32-8805-009b73e7b234": {
+          "type": "klarna",
+          "settings": {
+            "klarna_text": "4 interest-free installments of $24.50 by",
+            "klarna_icon": "shopify:\/\/shop_images\/Klarna_Logo_black.png",
+            "klarna_url": "https:\/\/www.klarna.com\/"
+          }
+        },
         "eacdf341-d209-44ee-ad84-425aa667ca68": {
           "type": "donate",
           "settings": {
@@ -61,6 +69,7 @@
         },
         "1f09b6c0-8cc9-4ec1-9478-0043ea3bc773": {
           "type": "how_it_works",
+          "disabled": true,
           "settings": {
             "hiw_title": "How it works",
             "hiw_icon_1": "shopify:\/\/shop_images\/hand_1_1.png",
@@ -98,7 +107,7 @@
           "settings": {
             "heading": "Care",
             "icon": "none",
-            "content": "<p>Care content<\/p>",
+            "content": "<p>Turn inside out, wash cold. Tumble dry or air dry. <\/p>",
             "page": ""
           }
         },
@@ -107,7 +116,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "none",
-            "content": "<p>Shipping content<\/p>",
+            "content": "<p>We ship via USPS. Please refer to our shipping policy on our website for more details.<\/p>",
             "page": ""
           }
         },
@@ -147,6 +156,7 @@
         "b21bf4d3-09f5-46fa-928e-86d4c4eece4b",
         "variant_picker",
         "buy_buttons",
+        "04d83a1c-de3d-4f32-8805-009b73e7b234",
         "eacdf341-d209-44ee-ad84-425aa667ca68",
         "1f09b6c0-8cc9-4ec1-9478-0043ea3bc773",
         "description",
@@ -164,11 +174,22 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 36
+      }
+    },
+    "1649671234af23c0d6": {
+      "type": "product-suggest",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_9.png",
+        "heading": "May We Suggest:",
+        "button-lable": "Leg Strap",
+        "link": "shopify:\/\/collections\/leg-strap"
       }
     },
     "1649226108ed05be4c": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1649226108dcc634f3-0": {
           "type": "column",
@@ -177,7 +198,7 @@
             "title": "",
             "text": "",
             "link_label": "Leg Strap",
-            "link": "#"
+            "link": "shopify:\/\/collections\/leg-strap"
           }
         },
         "1649226108dcc634f3-1": {
@@ -226,6 +247,7 @@
   },
   "order": [
     "main",
+    "1649671234af23c0d6",
     "1649226108ed05be4c"
   ]
 }

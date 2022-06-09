@@ -297,7 +297,7 @@
 }
 
 /* Add the custom stylce css 2022.04.11 */
-#ProductGridContainer ul#product-grid li.grid__item .card--card, .card--standard .card__inner { width: 270px; height: 260px; }
+/* #ProductGridContainer ul#product-grid li.grid__item .card--card, .card--standard .card__inner { width: 270px; height: 260px; } */
 #ProductGridContainer ul#product-grid li.grid__item .card--card, .card--standard .card__inner img{ width: 100%; height: 100%; object-fit: cover; }
 #ProductGridContainer ul#product-grid li.grid__item .card__content .price__container .lbl-taxes-shipping { margin-top: 0px; }
 

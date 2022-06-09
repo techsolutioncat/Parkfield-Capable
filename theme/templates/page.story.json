@@ -49,7 +49,7 @@
           "type": "button",
           "settings": {
             "button_label": "View more details",
-            "button_link": "#"
+            "button_link": "shopify:\/\/collections\/adapable-jeans"
           }
         }
       },
@@ -59,7 +59,7 @@
         "16488922048fc20bbd-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Group_36955.png",
+        "image": "shopify:\/\/shop_images\/Capable_Pants_aboutUs.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -94,6 +94,7 @@
     },
     "164905887963234d9c": {
       "type": "text-button",
+      "disabled": true,
       "settings": {
         "heading": "Let's support this community by bringing this amazing product to market.",
         "button_label": "Donate",
@@ -115,9 +116,48 @@
         "padding_bottom": 36
       }
     },
-    "custom-multicolumn": {
-      "type": "custom-multicolumn",
-      "settings": {}
+    "1651610436edbd0dac": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651610436d02cd3ab-0": {
+          "type": "column",
+          "settings": {
+            "title": "Speaker",
+            "text": "<p>Ms. Temeka Norris is available for interviews or speaking engagements.  <a href=\"\/pages\/contact-us\" target=\"_blank\" title=\"Contact Us\">Contact her<\/a> today. <\/p>",
+            "link_label": "Contact Temeka for speaking engagements",
+            "link": "shopify:\/\/pages\/contact-us"
+          }
+        },
+        "1651610436d02cd3ab-1": {
+          "type": "column",
+          "settings": {
+            "title": "Consider Donating A Pair of Jeans",
+            "text": "<p>Do you see or personally know those who may find it difficult to find jeans that meets their needs, aids in independent dressing, fits properly, and allows them to look and feel great? Show your support by donating a pair of adaptive jeans to those in need. To learn more about Capable Clothing donation program, <a href=\"\/pages\/donate\" target=\"_blank\" title=\"Donate\">click on the link<\/a>. <\/p>",
+            "link_label": "Learn more about donating",
+            "link": "shopify:\/\/pages\/donate"
+          }
+        }
+      },
+      "block_order": [
+        "1651610436d02cd3ab-0",
+        "1651610436d02cd3ab-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 56
+      }
     }
   },
   "order": [
@@ -127,6 +167,6 @@
     "1648892572a504c25f",
     "164905887963234d9c",
     "164925730664dd42c2",
-    "custom-multicolumn"
+    "1651610436edbd0dac"
   ]
 }
